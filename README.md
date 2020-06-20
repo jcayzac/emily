@@ -1,5 +1,7 @@
 # Emily
 
+![Emily](.github/banner.png)
+
 Android client for the [remote location tracking](https://www.softbank.jp/mobile/service/mimamorigps/) in SoftBank Mobile's
 [Mimamori Keitai 4](https://www.softbank.jp/mobile/products/keitai/mimamori-keitai4/).
 
